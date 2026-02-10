@@ -1,0 +1,5 @@
+l1=list(map(int,input("Enter elements into list:").split(",")))
+l2=list(map(int,input("Enter elements into list:").split(",")))
+print(l1)
+print(l2)
+print(l1+l2)
